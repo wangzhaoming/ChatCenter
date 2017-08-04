@@ -11,3 +11,5 @@
 **/.project
 **/target/
 Server/Database/*
+**/*.iml
+.idea

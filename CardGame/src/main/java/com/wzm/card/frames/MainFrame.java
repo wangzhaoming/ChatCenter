@@ -420,4 +420,8 @@ public class MainFrame extends JFrame {
 				.getResourceURL("/imgs/down_arrow.png")));
 		arrowLbl.setLocation(280, 360);
 	}
+	
+	public static void main(String[] args) {
+		new MainFrame();
+	}
 }

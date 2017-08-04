@@ -317,4 +317,8 @@ public class MineFrame extends JFrame {
 	{
 		return row;
 	}
+	
+	public static void main(String[] args) {
+		new MineFrame();
+	}
 }
